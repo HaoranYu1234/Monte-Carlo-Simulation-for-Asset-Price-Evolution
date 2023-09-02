@@ -1,1 +1,1 @@
-# Monte-Carlo-Simulation-for-Asset-Price-Evolution
+# Project: Monte Carlo Simulation for Asset Price Evolution
